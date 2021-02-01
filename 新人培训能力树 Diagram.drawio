@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-01T12:18:57.839Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="1xZWku86lTgOIoQz8nEo" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-01T12:26:59.538Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="U9GIHKsVmaZ2re1yV4Eq" version="14.2.7" type="github">
   <diagram id="uidyKyb0L4SlwOJ4rvAd" name="Page-1">
     <mxGraphModel dx="2500" dy="2000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -139,6 +139,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jCAm9oPdpPUsY3nMdn6j-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=2;fontStyle=1;fontSize=13;" edge="1" parent="1" source="m1W7cQSKEDRb8txVelTt-30" target="jCAm9oPdpPUsY3nMdn6j-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jCAm9oPdpPUsY3nMdn6j-118" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=13;fillColor=#d80073;strokeColor=#A50040;" edge="1" parent="1" source="m1W7cQSKEDRb8txVelTt-30" target="jCAm9oPdpPUsY3nMdn6j-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jCAm9oPdpPUsY3nMdn6j-119" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=13;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#a20025;strokeColor=#6F0000;" edge="1" parent="1" source="m1W7cQSKEDRb8txVelTt-30" target="jCAm9oPdpPUsY3nMdn6j-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m1W7cQSKEDRb8txVelTt-30" value="掌握岗位职责和操作手册：1001岗、监控岗、发布岗、测试岗、资源岗" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;fontSize=13;" parent="1" vertex="1">
