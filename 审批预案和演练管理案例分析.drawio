@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-22T09:40:26.285Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="7tTYsoTO-1mxm1pufpTm" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-22T09:46:11.314Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="C3LIboygC47ria4iNBBh" version="14.4.2" type="github">
   <diagram id="MKcHEHEwm5RcW2fj8WLi" name="Page-1">
     <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,6 +15,9 @@
         </mxCell>
         <mxCell id="OwDI_MBdAseSTSZx5Pmu-10" value="自动巡检&lt;br&gt;判断故障节点" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nZyj6YNGuKquACvHCQg4-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OwDI_MBdAseSTSZx5Pmu-12" target="nZyj6YNGuKquACvHCQg4-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OwDI_MBdAseSTSZx5Pmu-12" value="执行预案&lt;br&gt;依据《外部资信突发异常操作指引》" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="510" width="120" height="60" as="geometry" />
@@ -38,14 +41,41 @@
         <mxCell id="OwDI_MBdAseSTSZx5Pmu-14" value="是否有对应预案" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="180" y="380" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="nZyj6YNGuKquACvHCQg4-1" value="预案修订" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="nZyj6YNGuKquACvHCQg4-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nZyj6YNGuKquACvHCQg4-1" target="nZyj6YNGuKquACvHCQg4-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nZyj6YNGuKquACvHCQg4-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nZyj6YNGuKquACvHCQg4-1" target="nZyj6YNGuKquACvHCQg4-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nZyj6YNGuKquACvHCQg4-1" value="应急故障处理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nZyj6YNGuKquACvHCQg4-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nZyj6YNGuKquACvHCQg4-3" target="nZyj6YNGuKquACvHCQg4-1">
+        <mxCell id="nZyj6YNGuKquACvHCQg4-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nZyj6YNGuKquACvHCQg4-3" target="nZyj6YNGuKquACvHCQg4-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nZyj6YNGuKquACvHCQg4-3" value="系统稳定性评审&lt;br&gt;内部因素，发现新的危险源：新接入外部资信商" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nZyj6YNGuKquACvHCQg4-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nZyj6YNGuKquACvHCQg4-13" target="OwDI_MBdAseSTSZx5Pmu-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nZyj6YNGuKquACvHCQg4-13" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nZyj6YNGuKquACvHCQg4-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nZyj6YNGuKquACvHCQg4-17" target="nZyj6YNGuKquACvHCQg4-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nZyj6YNGuKquACvHCQg4-17" value="故障恢复" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nZyj6YNGuKquACvHCQg4-21" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nZyj6YNGuKquACvHCQg4-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nZyj6YNGuKquACvHCQg4-24" target="nZyj6YNGuKquACvHCQg4-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nZyj6YNGuKquACvHCQg4-24" value="预案修订" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
