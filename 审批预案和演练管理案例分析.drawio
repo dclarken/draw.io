@@ -1,1 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2021-02-22T05:05:40.565Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" version="14.4.2" etag="AT-S5tUFjoyzxrrouOkL" type="github"><diagram id="MKcHEHEwm5RcW2fj8WLi">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-22T07:24:46.649Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="es3EzlP8td7NiwPsiPuV" version="14.4.2" type="github">
+  <diagram id="MKcHEHEwm5RcW2fj8WLi" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OwDI_MBdAseSTSZx5Pmu-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OwDI_MBdAseSTSZx5Pmu-1" target="OwDI_MBdAseSTSZx5Pmu-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OwDI_MBdAseSTSZx5Pmu-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OwDI_MBdAseSTSZx5Pmu-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OwDI_MBdAseSTSZx5Pmu-9" target="OwDI_MBdAseSTSZx5Pmu-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OwDI_MBdAseSTSZx5Pmu-9" value="故障发现&lt;br&gt;审批系统故障（外部资信服务异常场景）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OwDI_MBdAseSTSZx5Pmu-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OwDI_MBdAseSTSZx5Pmu-10" target="OwDI_MBdAseSTSZx5Pmu-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OwDI_MBdAseSTSZx5Pmu-10" value="自动巡检&lt;br&gt;判断故障节点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OwDI_MBdAseSTSZx5Pmu-12" value="执行预案&lt;br&gt;依据《外部资信突发异常操作指引》" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OwDI_MBdAseSTSZx5Pmu-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OwDI_MBdAseSTSZx5Pmu-14" target="OwDI_MBdAseSTSZx5Pmu-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OwDI_MBdAseSTSZx5Pmu-14" value="是否有对应预案" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="380" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
